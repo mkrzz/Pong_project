@@ -15,5 +15,5 @@ Paddles and ball provided by the University
 Font - 1001fonts.com  
 
 ## Screenshots  
-[!menu_screenshot](/Data/Screenshots/Menu.png)  
-[!game_screenshot](/Data/Screenshots/Game.png)
+![menu_screenshot](/Data/Screenshots/Menu.png)  
+![game_screenshot](/Data/Screenshots/Game.png)
