@@ -1,1 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/hVi6gUuF)
+# Pong  
+## University assignment  
+Create a simple version of the classic game 'Pong' using the SFML API  
+
+## Features  
+- Two player functionality
+- Scoring system
+
+## Controls  
+Player 1 (left side) - W + S keys
+Player 2 (right side) - Up + Down arrow keys  
+
+## Assets  
+Paddles and ball provided by the University  
+Font - 1001fonts.com  
+
+## Screenshots  
+[!menu_screenshot](/Data/Screenshots/Menu.png)  
+[!game_screenshot](/Data/Screenshots/Game.png)
