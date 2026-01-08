@@ -1,5 +1,5 @@
 # Pong  
-## University assignment  
+### University assignment  
 Create a simple version of the classic game 'Pong' using the SFML API  
 
 ## Features  
