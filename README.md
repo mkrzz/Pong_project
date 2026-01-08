@@ -1,6 +1,7 @@
 # Pong  
 ### University assignment  
 Create a simple version of the classic game 'Pong' using the SFML API  
+This repository is a portfolio version of the original coursework, all features and content implemented by myself
 
 ## Features  
 - Two player functionality
